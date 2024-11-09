@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My GitHub Page
+# School of Science and Engineering
 
 **I am an Applied Math faculty member at a liberal arts college** specializing in Calculus, Differential Equations, and more. My research is in Mathematical Ecology, focusing on Population Dynamics and Prey-Predator Models.
 
